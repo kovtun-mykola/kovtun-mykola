@@ -18,8 +18,10 @@ I am Mykola Kovtun - a crypto enthusiast with a deep passion for blockchain tech
 
 ### Projects in which I participate
 
-[**Aztec**]([url](https://www.notion.so/kovtunmykola/Aztec-12df9a23ea38801ca2efc608cdfea11a)) 
-
+[**Aztec**](https://www.notion.so/kovtunmykola/Aztec-12df9a23ea38801ca2efc608cdfea11a)
+[**Nubit**](https://www.notion.so/kovtunmykola/Nubit-12df9a23ea38803dbf7bd2705e9e6aef)
+[**Nesa**](https://www.notion.so/kovtunmykola/Nesa-12df9a23ea388014af60cb18ba072256)
+[**Story Protocl**](https://www.notion.so/kovtunmykola/Story-Protocol-12df9a23ea3880848874fda33d3085df)
 
 ---
 
