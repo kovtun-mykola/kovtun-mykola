@@ -18,23 +18,8 @@ I am Mykola Kovtun - a crypto enthusiast with a deep passion for blockchain tech
 
 ### Projects in which I participate
 
-<p float="center">
-  <a href="https://kovtunmykola.notion.site/Lava-Network-3b8014561aa848cd8f0b4aecca3b0b28">
-    <img src="https://pbs.twimg.com/profile_images/1628433459977850882/l4oqDz8R_400x400.jpg" width="200" />
-  </a>
-  
-  <a href="https://kovtunmykola.notion.site/CrossFi-Network-303f7f00a3584a3fa4afefbeda0a8472">
-    <img src="https://pbs.twimg.com/profile_images/1719733805483790336/9rtdiMS-_400x400.jpg" width="200" /> 
-  </a>
-  
-  <a href="https://kovtunmykola.notion.site/0g-Network-b7293944e26442bfbc7fab085a262229">
-    <img src="https://pbs.twimg.com/profile_images/1762204546913468416/KBZhJfhC_400x400.jpg" width="200" />
-  </a>
-  
-  <a href="https://kovtunmykola.notion.site/Allora-Network-eb642df57e29491094c45b2ce1193db1">
-    <img src="https://pbs.twimg.com/profile_images/1793726657783812096/sDRnXVCd_400x400.jpg" width="200" />
-  </a>
-</p>
+[**Aztec**]([url](https://www.notion.so/kovtunmykola/Aztec-12df9a23ea38801ca2efc608cdfea11a)) 
+
 
 ---
 
